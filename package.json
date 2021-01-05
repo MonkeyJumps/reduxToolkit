@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "immer": "^6.0.2",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
